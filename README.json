@@ -1,4 +1,4 @@
-{
+{npm install
   "lessonTitle": "Introducción",
   "permalink": "/index.html",
   "layout": "intro",
@@ -7,3 +7,5 @@
     "order": 0
   }
 }
+
+
